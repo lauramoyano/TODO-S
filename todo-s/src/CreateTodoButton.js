@@ -1,6 +1,6 @@
 import react from "react";
 import './CreateTodoButton.css';
-function CreateTodoButtom(){
+function CreateTodoButton(){
     const onClickButton =() =>{
         alert('jajajaja')
     }
@@ -14,4 +14,4 @@ function CreateTodoButtom(){
     );
 }
 
-export { CreateTodoButtom};
+export { CreateTodoButton};
